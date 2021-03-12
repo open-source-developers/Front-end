@@ -82,7 +82,7 @@
     "pnp-webpack-plugin": "1.5.0",
     "prettier": "^1.19.1",
     "react-app-polyfill": "^1.0.4",
-    "react-dev-utils": "^9.1.0",
+    "react-dev-utils": "^11.0.4",
     "regenerator-runtime": "^0.13.2",
     "semver": "6.3.0",
     "storybook-chromatic": "^3.4.1",
